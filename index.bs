@@ -643,8 +643,8 @@ navigator.vr.getDisplays().then(function (displays) {
 enum VRDisplayEventReason {
   "navigation",
   "mounted",
-  "requested"
-  "unmounted",
+  "requested",
+  "unmounted"
 };
 </pre>
 
